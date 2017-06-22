@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Jun 2017 18:59:33 at http://www.clusterthemes.com/demo/insuranced/html/main.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" http://www.clusterthemes.com/demo/insuranced/html/main.html -O1 "C:\Users\P501\Desktop\ogguug2\qw" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:59:34	Error: 	"Internal Server Error" (500) after 2 retries at link www.clusterthemes.com/robots.txt (from primary/primary)
+19:01:45	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/.js-pop_up_tabs (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:04	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/.title1 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:06	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/.title2 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:10	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/.title3 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:10	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/.title4 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:10	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/more (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:10	Warning: 	Retry after error -4 (No data (connection closed)) at link www.clusterthemes.com/demo/insuranced/html/assets/images/content/partners/p1.png (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:12	Warning: 	Retry after error -4 (No data (connection closed)) at link www.clusterthemes.com/demo/insuranced/html/assets/libs/blueimp-file-upload/js/vendor/jquery.ui.widget.js (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:12	Warning: 	Retry after error -4 (No data (connection closed)) at link www.clusterthemes.com/demo/insuranced/html/assets/images/ajax_loader.gif (from www.clusterthemes.com/demo/insuranced/html/assets/styles/main.css)
+19:03:12	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/.js-pop_up_tabs (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:13	Warning: 	Retry after error -4 (No data (connection closed)) at link www.clusterthemes.com/demo/insuranced/html/assets/images/content/our_team/o_c01.jpg (from www.clusterthemes.com/demo/insuranced/html/about_us.html)
+19:03:13	Warning: 	Retry after error -4 (No data (connection closed)) at link www.clusterthemes.com/demo/insuranced/html/assets/images/content/our_team/002.jpg (from www.clusterthemes.com/demo/insuranced/html/about_us.html)
+19:03:14	Warning: 	Retry after error -4 (No data (connection closed)) at link www.clusterthemes.com/demo/insuranced/html/assets/images/content/our_team/004.jpg (from www.clusterthemes.com/demo/insuranced/html/about_us.html)
+19:03:16	Warning: 	Retry after error -4 (No data (connection closed)) at link www.clusterthemes.com/demo/insuranced/html/assets/images/content/blog/b04.jpg (from www.clusterthemes.com/demo/insuranced/html/blog.html)
+19:03:16	Warning: 	Retry after error -4 (No data (connection closed)) at link www.clusterthemes.com/demo/insuranced/html/assets/images/content/blog/b07.jpg (from www.clusterthemes.com/demo/insuranced/html/blog.html)
+19:03:16	Warning: 	Retry after error -4 (No data (connection closed)) at link www.clusterthemes.com/demo/insuranced/html/assets/images/content/blog/b09.jpg (from www.clusterthemes.com/demo/insuranced/html/blog.html)
+19:03:17	Warning: 	Retry after error -4 (No data (connection closed)) at link www.clusterthemes.com/demo/insuranced/html/assets/images/content/blog/post02.jpg (from www.clusterthemes.com/demo/insuranced/html/post.html)
+19:03:18	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/.title1 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:18	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/.title2 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:19	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/.title3 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:19	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/.title4 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:20	Warning: 	Retry after error 500 (Internal Server Error) at link www.clusterthemes.com/demo/insuranced/html/more (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:20	Error: 	"Internal Server Error" (500) after 2 retries at link www.clusterthemes.com/demo/insuranced/html/.js-pop_up_tabs (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:20	Warning: 	Retry after error -4 (No data (connection closed)) at link www.clusterthemes.com/demo/insuranced/html/assets/images/content/blog/b04.jpg (from www.clusterthemes.com/demo/insuranced/html/blog.html)
+19:03:30	Error: 	"Internal Server Error" (500) after 2 retries at link www.clusterthemes.com/demo/insuranced/html/.title1 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:30	Error: 	"Internal Server Error" (500) after 2 retries at link www.clusterthemes.com/demo/insuranced/html/.title2 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:30	Error: 	"Internal Server Error" (500) after 2 retries at link www.clusterthemes.com/demo/insuranced/html/.title3 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:30	Error: 	"Internal Server Error" (500) after 2 retries at link www.clusterthemes.com/demo/insuranced/html/.title4 (from www.clusterthemes.com/demo/insuranced/html/main.html)
+19:03:30	Error: 	"Internal Server Error" (500) after 2 retries at link www.clusterthemes.com/demo/insuranced/html/more (from www.clusterthemes.com/demo/insuranced/html/main.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 57 seconds : 154 links scanned, 124 files written (8358561 bytes overall) [5815056 bytes received at 24536 bytes/sec], 3440065 bytes transferred using HTTP compression in 45 files, ratio 24%, 5.9 requests per connection
+(7 errors, 23 warnings, 0 messages)
